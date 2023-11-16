@@ -1,0 +1,19 @@
+[
+   {
+      "passenger":"Кузнецов Иван",
+      "baggageNum":"043232",
+      "flightNum":"DP-340",
+      "destination":"Sochi",
+      "depature":"2023-11-16T05:40:00",
+      "review":"САБ"
+   },
+   {
+      "passenger":"Петров Тимофей",
+      "baggageNum":"786768",
+      "flightNum":"ЫГ-6402",
+      "destination":"St.Petersburg",
+      "depature":"2023-11-16T06:15:00",
+      "delay":"2023-11-16T07:10:00",
+      "review":"ФТС/САБ"
+   }
+]
